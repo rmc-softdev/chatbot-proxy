@@ -1,0 +1,159 @@
+{
+    "faqs": [
+      {
+        "id": "profile-update",
+        "questions": [
+          "how do I update my profile",
+          "how to update profile information",
+          "update property details",
+          "change property information",
+          "modify profile",
+          "edit property details"
+        ],
+        "keywords": ["profile", "update", "property", "information", "details", "edit"],
+        "response": "Here's how to update your property details:\n\n1. Sign in to the app\n2. Select the Profile tab at the bottom right-hand side of the screen\n3. Under the Property section, select Property Information\n4. Here you can:\n   - Add special instructions for your Pro\n   - Specify access issues\n   - Define the area to be serviced"
+      },
+      {
+        "id": "cancel-anytime",
+        "questions": [
+          "can I cancel anytime",
+          "how do I cancel my lawn treatment",
+          "cancellation policy",
+          "what is the cancellation policy",
+          "cancel my service",
+          "how to cancel",
+          "48 hour cancellation"
+        ],
+        "keywords": ["cancel", "cancellation", "treatment", "48 hours", "service"],
+        "response": "Your tailored Lawn Treatment service is designed to work as a comprehensive package of 7-8 applications - you'll get the best results if the applications are applied as intended. However, you are free to cancel anytime. You are never charged until after the service is completed.\n\nImportant: If you do not cancel or reschedule a service date at least 48 hours prior to the scheduled time, you will be charged the full amount for the canceled or rescheduled service."
+      },
+      {
+        "id": "more-information",
+        "questions": [
+          "how can I get more information",
+          "who can I call for help",
+          "need assistance",
+          "contact support",
+          "support phone number",
+          "customer service number"
+        ],
+        "keywords": ["information", "help", "call", "phone", "assistance", "support"],
+        "response": "Our lawn care team is ready to assist. Call 866-822-1766 and press 1 for expert advice."
+      },
+      {
+        "id": "prepare-lawn",
+        "questions": [
+          "how do I prepare my lawn",
+          "lawn preparation",
+          "what should I do before treatment",
+          "prepare for service",
+          "lawn preparation instructions"
+        ],
+        "keywords": ["prepare", "preparation", "before", "treatment", "lawn"],
+        "response": "To prepare your lawn for treatment:\n\n1. Remove leaves, sticks, or any debris that might block the treatment\n2. Water your lawn lightly the day before\n3. Ensure the soil is moist but not soaked"
+      },
+      {
+        "id": "product-safety",
+        "questions": [
+          "are your products safe",
+          "is the treatment safe",
+          "safe for pets",
+          "safe for children",
+          "eco friendly products",
+          "environmental safety"
+        ],
+        "keywords": ["safe", "safety", "eco", "pets", "family", "products", "environmental"],
+        "response": "Our products are guaranteed safe and eco-friendly:\n\n- All products are EPA registered\n- Following rigorous selection process\n- Safe for families and pets\n\nRecommendation: Allow the application to dry for 1-2 hours before families and pets resume enjoying their lawns."
+      },
+      {
+        "id": "first-service",
+        "questions": [
+          "when is my first service",
+          "timing for first treatment",
+          "what to expect",
+          "first service expectations",
+          "initial service timing"
+        ],
+        "keywords": ["first", "initial", "service", "timing", "expect"],
+        "response": "First Service Timeline:\n\n- Initial treatment occurs within 3 weeks from order date\n- Provider will assess your lawn's needs\n- Additional services scheduled 4-6 weeks apart\n- Check in-app for next service schedule"
+      },
+      {
+        "id": "pause-mowing",
+        "questions": [
+          "can I pause my mowing service",
+          "how to pause service",
+          "pause for season",
+          "stop mowing temporarily",
+          "suspend lawn service"
+        ],
+        "keywords": ["pause", "stop", "suspend", "season", "mowing"],
+        "response": "Yes! To pause your lawn mowing service:\n\n1. Go to the Service tab list\n2. Find your lawn mowing service\n3. Select 'Pause for the season' at the bottom of the screen\n\nYou can also cancel your service from the same location."
+      },
+      {
+        "id": "update-payment",
+        "questions": [
+          "how do I update payment",
+          "change payment method",
+          "update card information",
+          "change credit card",
+          "update billing"
+        ],
+        "keywords": ["payment", "card", "billing", "update", "credit"],
+        "response": "To update your payment information:\n\n1. Go to Profile\n2. Select Payment Method\n3. You'll see your current payment method with last 4 digits and expiration date\n4. Click 'Update Payment Method' to add a new card"
+      },
+      {
+        "id": "reschedule",
+        "questions": [
+          "can I reschedule",
+          "how to reschedule service",
+          "change service date",
+          "skip next service",
+          "change mowing schedule"
+        ],
+        "keywords": ["reschedule", "schedule", "change", "date", "skip"],
+        "response": "Yes! To reschedule your lawn mowing service:\n\n1. Find your service in the Service tab list\n2. Select it\n3. Use the rescheduling options at the bottom of the service details screen\n4. Choose to skip your next service or reschedule for a different day"
+      },
+      {
+        "id": "pro-arrival",
+        "questions": [
+          "what time will my pro arrive",
+          "service arrival time",
+          "when will service start",
+          "pro arrival time",
+          "service timing"
+        ],
+        "keywords": ["arrive", "arrival", "time", "pro", "when"],
+        "response": "Your pro will arrive on the day of your scheduled service. For a precise arrival time, use the Inbox to send a message to your pro."
+      },
+      {
+        "id": "long-grass-fee",
+        "questions": [
+          "what is the long grass fee policy",
+          "why am I being charged a long grass fee",
+          "long grass fee explanation",
+          "extra charge for tall grass",
+          "additional fee for high grass",
+          "grass too tall fee",
+          "overgrown lawn charges",
+          "why do I need to pay more for long grass",
+          "grass height surcharge",
+          "15 inch grass fee",
+          "9 inch grass charge"
+        ],
+        "keywords": [
+          "long grass",
+          "tall grass",
+          "grass height",
+          "additional fee",
+          "surcharge",
+          "overgrown",
+          "9 inches",
+          "15 inches",
+          "fee",
+          "report",
+          "approval"
+        ],
+        "response": "The Long Grass Fee policy compensates our Pros for the extra time and equipment strain when mowing taller grass. Here's how it works:\n\nFor grass 9-15 inches tall:\n- 50% additional fee if only part of the yard is affected\n- 100% additional fee if most of the yard is affected\n\nFor grass over 15 inches:\n1. You'll receive a notification via email and SMS\n2. You must approve the fee before mowing can proceed\n3. You'll see available return dates in the Long Grass Fee Report\n4. Select your preferred return date\n5. The Pro will be notified once you accept\n\nImportant Notes:\n- The fee will expire the day before the Pro's last available return date\n- If you reject the fee, our customer support will contact you\n- When rejecting, please explain your reason and preferred solution\n\nThis policy helps ensure efficient service and fair compensation for our Pros while maintaining equipment integrity."
+      }
+    ]
+  }
